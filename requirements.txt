@@ -1,0 +1,7 @@
+matplotlib
+nltk
+streamlit
+torch
+transformers
+sentencepiece
+plotly
